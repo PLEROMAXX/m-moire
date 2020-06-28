@@ -13,16 +13,16 @@
      *  l'émergence dans la science du système complexe
      *  reaction-diffusion modèle 
      *  automate cellulaire de Von Neumann/ Theory of Self-reproducing Automata
-     *  automate cellulaire unidimensionnel(Stephen Wolfram)/hypothèse d'une modèle d'univers dans <A New Kind of Science> 2002,
+     *  automate cellulaire unidimensionnel(Stephen Wolfram)/hypothèse d'une modèle d'univers dans "A New Kind of Science" 2002,
      *  Automate cellulaire bidimensionnel（game of life）
-     *  John Holland/Francisco Varela algorithme génétique et <Adaptation of Natural and Artificial Systems>
+     *  John Holland/Francisco Varela algorithme génétique et "Adaptation of Natural and Artificial Systems"
      *  les oeuvres/créations de karl Sims
      *  Tierra 
      *  les installations de Vasilija Abramovic et Ruaivi Glynn
      *  les oeuvres de Ian Chen
   ## Système complexe
   * l'histoire d'imagination d'intelligence 
-     *  <l'apprentissage est la réminiscence> de Platon 
+     *  "l'apprentissage est la réminiscence" de Platon 
      *  hypothèse de l'émergence de l'intelligence dans la science du système complexe
      *  transmission d'information dans automate cellulaire unidimensionnel
   * système complexe dans la nature
