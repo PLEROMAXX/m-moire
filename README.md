@@ -33,7 +33,7 @@
   * phénomène de l'organisation autonomie dans la nature
   * réseau de la société humaine, internet
   * réseau centralisé, réseau décentralisé et réseau distribué
-  * gouvernance centralisé et tradition d'autonomie villageoise
+  * gouvernance centralisé et tradition d'autonomie villageoise(En Chine)
   * gouvernance dans les organisations pirates
   * ZAD
   * organisation autonomie d'artists
